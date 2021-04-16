@@ -1,8 +1,8 @@
 # FlixNETAngularClient
 
-This is the client-side for the API I built in my [movie_api](https://github.com/jonathan-sheets/movie_api) repo.  It was built using Angular and Angular Material.
+This is the client-side for the API I built in my [movie_api](https://github.com/Fawwaz24/Movie-Api) repo.  It was built using Angular and Angular Material.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.   - See it in action [HERE](https://jonathan-sheets.github.io/flixNET-Angular-client)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.   - See it in action [HERE]( https://fawwaz24.github.io/myFlix-Angular/)
 
 ## Development server
 
